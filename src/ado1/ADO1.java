@@ -7,8 +7,6 @@ public class ADO1 {
         
         UserPreferences uP = new UserPreferences();
         
-        String[] result =  uP.getSession();
-        
         for (int i = 0; i< uP.getSession().length; i++){
             System.out.println(uP.getSession()[i]);
         }
