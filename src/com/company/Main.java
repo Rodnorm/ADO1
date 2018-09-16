@@ -1,4 +1,4 @@
-package com.company;
+package Singleton.company;
 
 import java.util.Scanner;
 
